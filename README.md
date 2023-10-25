@@ -2,15 +2,16 @@
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+for being able to contribute and improve this theme youll need to fork the repo and then run vscode's debugger using ```F5``` or Run section in the toolbar at top.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+to create an output from this json you can use 
 
-## For more information
+```vsce package```
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+command which will give you an vscode extension installabe on your vscode
+
+## Version conflict error
+
+if you are facing some sort of issue i recommend changing the version on vscode engine in package.json to which matchs your version.
 
 **Enjoy!**
