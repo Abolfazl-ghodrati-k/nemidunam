@@ -1,0 +1,22 @@
+{
+  "name": "nemidunam",
+  "displayName": "nemidunam",
+  "description": "unam nemidunam",
+  "publisher": "abolfazl",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ey agha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ey agha-color-theme.json"
+      }
+    ]
+  }
+}
