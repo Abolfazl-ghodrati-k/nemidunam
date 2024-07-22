@@ -8,7 +8,7 @@ to create an output from this json you can use
 
 ```vsce package```
 
-command which will give you an vscode extension installabe on your vscode
+command which will give you a vscode extension installabe on your vscode
 
 ## Version conflict error
 
